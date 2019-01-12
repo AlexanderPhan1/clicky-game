@@ -1,16 +1,16 @@
-// Main App component
+import React from "react";
+import Main from "./components/Main";
 
-import React from 'react';
-import GameBoard from './components/GameBoard'
-import Header from './components/Header'
+// import Top from "./components/Top";
 
-const App = () => {
-    return (
-        <div>
-            <Header />
-            <GameBoard />
-        </div>
-    );
-};
+
+const App = () => 
+ 
+    <div>     
+       <Main />
+    </div> 
+  
+
+
 
 export default App;
