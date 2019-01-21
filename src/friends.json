@@ -1,42 +1,42 @@
 [
   {
     "id": 1,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/ComicBookGuy2.gif",
+    "image": "http://mario.nintendo.com/assets/img/characters/char-mario.png",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/BarneyBikini.gif",
+    "image": "http://mario.nintendo.com/assets/img/characters/char-luigi.png",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/Apu1.gif",
+    "image": "http://mario.nintendo.com/assets/img/characters/char-peach.png",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/MrBurns4.gif",
+    "image": "http://mario.nintendo.com/assets/img/characters/char-bowser.png",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/Cletus1.gif",
+    "image": "http://mario.nintendo.com/assets/img/characters/char-yoshi.png",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/Duffman.gif",
+    "image": "http://mario.nintendo.com/assets/img/characters/char-daisy.png",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/NedFlanders2.gif",
+    "image": "http://mario.nintendo.com/assets/img/characters/char-wario.png",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/Krusty8.gif",
+    "image": "http://mario.nintendo.com/assets/img/characters/char-toad.png",
     "clicked": false
   },
   {
@@ -46,17 +46,17 @@
   },
   {
     "id": 10,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/GroundskeeperWilly1.gif",
+    "image": "http://mario.nintendo.com/assets/img/characters/char-waluigi.png",
     "clicked": false
   },
   {
     "id": 11,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/RalphWiggum4.gif",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYHUI3QIh4ugspLkehWY0V-Otd-MAjjTsmVTuhGBK-73Q0t0GvHw",
     "clicked": false
   },
   {
     "id": 12,
-    "image": "http://www.simpsoncrazy.com/content/pictures/regulars/MoeSzyslak1.gif",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRczbbYyXR_A4w850cQzeUYrriHdjDbyveJKhyzNiEu5h2ieMmo",
     "clicked": false
   }
 ]
